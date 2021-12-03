@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-req-tamper",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "insomnia-plugin-req-tamper",
+    "description": ""
+  },
+  "main": "main.js"
+}
